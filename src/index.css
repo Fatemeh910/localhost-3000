@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.min-w-90{
+    min-width: 90%;
+}
+.min-h-90{
+    min-height: 90%;
+}
